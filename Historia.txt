@@ -6,3 +6,5 @@ En estas vacaciones que quedan, o tal ves no lo hara
 
 Esto es un parrafo de reinicio desde una version anterior usando el comando 
 de Checkout 
+
+Hola soy un nuevo colaborador para este repositorio, mi nombre es John!!!
